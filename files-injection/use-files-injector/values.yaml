@@ -1,0 +1,8 @@
+configmap:
+  name: files
+
+files-injector:
+  fileInjection:
+    configmaps:
+      - name: files
+        mountPath: /files

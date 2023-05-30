@@ -1,0 +1,6 @@
+dependencies:
+- name: files-injector
+  repository: file://../files-injector
+  version: 0.1.0
+digest: sha256:710beb934102a1edad56bd421c5ea52add279a7cad050beeea6e3dde18d4131b
+generated: "2023-05-30T20:53:49.432578382+02:00"
